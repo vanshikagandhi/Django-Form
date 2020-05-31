@@ -29,6 +29,7 @@ SECRET_KEY = '8iw3n=p^b+n+m!@t_#jd^cz(8c67^ir2cf=!$vvp08ep(b27wn'
 DEBUG = True
 
 ALLOWED_HOSTS = ['EC2_DNS_NAME']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
